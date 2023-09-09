@@ -29,5 +29,5 @@ def process_sniffed_packet(packet):
              
         
 # 5. calling the sniffing function on interface: eht0
-sniff("eth 0")
+sniff("eth0")
 
